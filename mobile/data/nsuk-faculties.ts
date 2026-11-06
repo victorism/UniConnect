@@ -1,0 +1,54 @@
+export const faculties = [
+  {
+    name: "Administration",
+    departments: ["Accounting", "Banking and Finance", "Business Administration", "Entrepreneurial Studies", "Marketing", "Public Administration", "Taxation", "Security and Investment Management"]
+  },
+  {
+    name: "Agriculture",
+    departments: ["Agricultural Economics and Extension", "Agronomy", "Animal Science", "Fisheries", "Forestry and Wildlife", "Home Science and Management"]
+  },
+  {
+    name: "Arts",
+    departments: ["Arabic Studies", "English Language", "French Language", "History", "Islamic Studies", "Linguistics", "Religious Studies", "Theatre and Cultural Studies"]
+  },
+  {
+    name: "Communication & Media Studies",
+    departments: ["Mass Communication"]
+  },
+  {
+    name: "Computing",
+    departments: ["Computer Science", "Statistics and Data Analytics"]
+  },
+  {
+    name: "Education",
+    departments: ["Arts and Social Sciences Education", "Educational Foundations", "Science, Technology and Mathematics Education", "Special Education", "Guidance and Counselling"]
+  },
+  {
+    name: "Engineering",
+    departments: ["Civil Engineering", "Electrical Engineering", "Mechanical Engineering"]
+  },
+  {
+    name: "Environmental Sciences",
+    departments: ["Environmental Management", "Geography", "Urban and Regional Planning"]
+  },
+  {
+    name: "Health Sciences",
+    departments: ["Community Health", "Environmental Health", "Health Information Management", "Nutrition and Dietetics"]
+  },
+  {
+    name: "Law",
+    departments: ["Private and Business Law", "Public and International Law"]
+  },
+  {
+    name: "Life Sciences",
+    departments: ["Biochemistry and Molecular Biology", "Biological Sciences", "Microbiology", "Plant Science", "Zoology"]
+  },
+  {
+    name: "Physical Sciences",
+    departments: ["Chemistry", "Geology and Mining", "Mathematical Sciences", "Physics", "Science Laboratory Technology"]
+  },
+  {
+    name: "Social Sciences",
+    departments: ["Economics", "Political Science", "Psychology", "Sociology"]
+  }
+];
